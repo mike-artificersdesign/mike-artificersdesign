@@ -22,7 +22,7 @@ On every engagement I'm hands-on end-to-end on the technical work. The pipeline 
 
 ## Selected Projects
 
-**Orchestrator** — Multi-tenant real-time job dispatch and orchestration platform. NestJS / PostgreSQL / Redis backend, LangGraph workflow engine, twelve specialized agent personas, multi-machine fleet coordinator, real-time WebSocket telemetry, structured audit logging, recoverable workflow state, role-based access control. *Active commercial IP; private codebase.*
+**Orchestrator** — Our studio's multi-tenant multi-agent development platform. Twelve specialist agent personas, eight workflow stages, every requirement verified. The asset that lets us ship production software at small-business budgets. *Active commercial IP; private codebase.*
 
 **Artificers ROI Tasking** — Operational ROI portfolio platform. Executives and managers identify, quantify, plan, and track operational improvements with trustworthy economics and a full audit trail — not a generic ticketing system. Organization-scoped multi-tenant SaaS with RBAC, effective-dated task versioning with lifecycle audit, projection engines (S-curve adoption and linear scenario), dashboard KPIs (breakeven, leverage multiple, peak cashflow, operational maturity), Excel import workflow. *In use; private codebase.*
 
